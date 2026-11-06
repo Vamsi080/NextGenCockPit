@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "",
+                        "functionName": "renderStrategy",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "Cannot load property power from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/LensFrame.qml)::sim with type QVariant.",
+                        "functionName": "signature",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "onSignatureChanged",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 14,
+                        "durationMicroseconds": 165,
+                        "errorMessage": "Instruction \"generate_PushBlockContext\" not implemented",
+                        "functionName": "onPaint",
+                        "line": 24
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/LensFrame.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "Cannot load property bg from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Backdrop.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot load property accent from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Backdrop.qml)::theme with type QVariant.",
+                        "functionName": "a",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property accent2 from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Backdrop.qml)::theme with type QVariant.",
+                        "functionName": "b",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "onAChanged",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "onBChanged",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 5440,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onPaint",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 12
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Backdrop.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

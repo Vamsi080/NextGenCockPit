@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 631,
+                        "errorMessage": "",
+                        "functionName": "layoutDirection",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name ind",
+                        "functionName": "c",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name ind",
+                        "functionName": "opacity",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "onCChanged",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "Cannot access value for name ind",
+                        "functionName": "onPaint",
+                        "line": 25
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Indicator.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

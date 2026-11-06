@@ -1,0 +1,36 @@
+module NextGenCockpit
+typeinfo appNextGenCockpit.qmltypes
+prefer :/NextGenCockpit/
+VehicleSim 1.0 VehicleSim.qml
+Theme 1.0 Theme.qml
+Backdrop 1.0 Backdrop.qml
+LidarScene 1.0 LidarScene.qml
+LensFrame 1.0 LensFrame.qml
+SpeedCluster 1.0 SpeedCluster.qml
+LeftPanel 1.0 LeftPanel.qml
+RightPanel 1.0 RightPanel.qml
+DeckTabs 1.0 DeckTabs.qml
+CardDrive 1.0 CardDrive.qml
+CardSafety 1.0 CardSafety.qml
+CardSensors 1.0 CardSensors.qml
+CardNavMedia 1.0 CardNavMedia.qml
+CardVehicle 1.0 CardVehicle.qml
+CardRoad 1.0 CardRoad.qml
+CardHealth 1.0 CardHealth.qml
+CardEnergy 1.0 CardEnergy.qml
+Sparkline 1.0 Sparkline.qml
+EvidencePanel 1.0 EvidencePanel.qml
+ControlDeck 1.0 ControlDeck.qml
+DeckButton 1.0 DeckButton.qml
+Telltales 1.0 Telltales.qml
+TelltaleIcon 1.0 TelltaleIcon.qml
+GearRail 1.0 GearRail.qml
+ModeDock 1.0 ModeDock.qml
+AlertBanner 1.0 AlertBanner.qml
+HelpOverlay 1.0 HelpOverlay.qml
+Indicator 1.0 Indicator.qml
+TurnArrow 1.0 TurnArrow.qml
+Caption 1.0 Caption.qml
+CoPilotDisplay 1.0 CoPilotDisplay.qml
+SignalSimulator 1.0 SignalSimulator.qml
+

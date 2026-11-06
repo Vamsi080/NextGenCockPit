@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/NextGenCockpit">
+    <file alias="qmldir">C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/NextGenCockpit/qmldir</file>
+  </qresource>
+</RCC>
+

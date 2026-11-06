@@ -1,0 +1,436 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot load property weather from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::sim with type QVariant.",
+                        "functionName": "w",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 436,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property name from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::w with type QVariant.",
+                        "functionName": "text",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 125,
+                        "durationMicroseconds": 4350,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 760,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 81,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 59,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 668,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "Cannot load property temp from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::w with type QVariant.",
+                        "functionName": "text",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 770,
+                        "errorMessage": "Cannot load property iceRisk from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 104,
+                        "durationMicroseconds": 477,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 326,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "Cannot load property hum from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::w with type QVariant.",
+                        "functionName": "model",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "theme",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot load property modelData from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot load property modelData from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot load property modelData from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 63,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "family",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property wipers from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property accent from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 1878,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 984,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 1421,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 2378,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot load property cabinSet from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 124,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 80,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property cabinTemp from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 139,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 95,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 2462,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type QQuickItem::children with type QQuickItem (stored as QVariant)",
+                        "functionName": "baseline",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 1218,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 2108,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot load property batteryTemp from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::sim with type QVariant.",
+                        "functionName": "model",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 254,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "width",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot load property v from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::modelData with type QVariant.",
+                        "functionName": "f",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "Cannot load property modelData from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 103,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "color",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 59,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "family",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 71,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "color",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 58,
+                        "durationMicroseconds": 409,
+                        "errorMessage": "Cannot load property f from QQuickItem::parent with type QQuickItem.",
+                        "functionName": "width",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "Cannot load property f from QQuickItem::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "Cannot load property modelData from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 151,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "color",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 107,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "family",
+                        "line": 75
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardWeather.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

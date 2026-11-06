@@ -1,0 +1,476 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 3969,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "profiles",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 252,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profiles with type QVariant (stored as QJSValue)",
+                        "functionName": "profile",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profiles with type QVariant.",
+                        "functionName": "nextProfile",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profiles with type QVariant.",
+                        "functionName": "prevProfile",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property power from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profile with type QVariant.",
+                        "functionName": "maxPower",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "",
+                        "functionName": "vmax",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot load property range from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profile with type QVariant.",
+                        "functionName": "range",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 368,
+                        "errorMessage": "",
+                        "functionName": "setSpeed",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 337,
+                        "errorMessage": "",
+                        "functionName": "regenLevel",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "laneChangeBlocked",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "",
+                        "functionName": "pedU",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 536,
+                        "errorMessage": "",
+                        "functionName": "pedActive",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "parkingBrake",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 1440,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "wheels",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "wheelBad",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot load property clearance from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profile with type QVariant.",
+                        "functionName": "clearance",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "obstacle",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 42,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property at from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::obstacle with type QVariant.",
+                        "functionName": "obstacleDist",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 748,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "_obsTypes",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property h from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::obstacle with type QVariant.",
+                        "functionName": "underbodyRisk",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 1496,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "weathers",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::weathers with type QVariant (stored as QJSValue)",
+                        "functionName": "weather",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::weathers with type QVariant.",
+                        "functionName": "nextWeather",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 37,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot load property temp from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::weather with type QVariant.",
+                        "functionName": "iceRisk",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "hour",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 552,
+                        "errorMessage": "",
+                        "functionName": "lowBeam",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "fogLamps",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "wipers",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 7964,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "sensors",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "alerts",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "flash",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 1156,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "route",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::route with type QVariant (stored as QJSValue)",
+                        "functionName": "navRemain",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::route with type QVariant (stored as QJSValue)",
+                        "functionName": "nav",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::route with type QVariant.",
+                        "functionName": "routeRemainKm",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 1013,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "tracks",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::tracks with type QVariant (stored as QJSValue)",
+                        "functionName": "track",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::tracks with type QVariant.",
+                        "functionName": "nextTrack",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::tracks with type QVariant.",
+                        "functionName": "prevTrack",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 2189,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "traffic",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "now",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "requestGear",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 753,
+                        "errorMessage": "",
+                        "functionName": "cycleView",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "toggleIndicator",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "resetReverse",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "",
+                        "functionName": "driverInput",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "onIndicatorChanged",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "clamp",
+                        "line": 247
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 5460,
+                        "errorMessage": "Cannot load property v from QVariant.",
+                        "functionName": "step",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "Cannot load property psi from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml)::profile with type QVariant.",
+                        "functionName": "slowStep",
+                        "line": 414
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "Cannot load property z from std::nullptr_t.",
+                        "functionName": "leadCar",
+                        "line": 462
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "laneFree",
+                        "line": 468
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 71,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "running",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 400,
+                        "errorMessage": "",
+                        "functionName": "onRunningChanged",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 69,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 70,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 245
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/VehicleSim.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

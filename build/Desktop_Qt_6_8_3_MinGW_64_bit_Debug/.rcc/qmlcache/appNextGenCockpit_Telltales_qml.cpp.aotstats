@@ -1,0 +1,108 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 190,
+                        "errorMessage": "Cannot load property passengerBelted from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::sim with type QVariant.",
+                        "functionName": "lamps",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property length from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::lamps with type QVariant.",
+                        "functionName": "model",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot access value for name strip",
+                        "functionName": "lamp",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot load property k from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::lamp with type QVariant.",
+                        "functionName": "kind",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "Cannot load property on from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::lamp with type QVariant.",
+                        "functionName": "active",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot load property c from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::lamp with type QVariant.",
+                        "functionName": "color",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "Cannot load property f from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::lamp with type QVariant.",
+                        "functionName": "flashing",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name strip",
+                        "functionName": "blink",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property good from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 73,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 49
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/Telltales.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

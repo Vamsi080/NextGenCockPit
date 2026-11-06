@@ -1,0 +1,596 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "Cannot load property power from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "regen",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "Cannot load property gear from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "rev",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot load property regenLevel from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 117,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property good from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot load property power from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property good from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 76,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 116,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 72,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot load property tripKm from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property efficiency from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 157,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 88,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 138,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 124,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 80,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property autoDrive from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 85,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 267,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot load property autoDrive from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property autoDrive from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "on",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot access value for name card",
+                        "functionName": "color",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot load property leadDistance from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot load property fcw from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 80,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 81,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property bsLeft from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 82,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property bsRight from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 86,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 81,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot load property laneChangeBlocked from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property laneChangeBlocked from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property gear from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 74,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property dim from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 235,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot load property parkGap from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "g",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property rearAeb from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "c",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 73,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 288,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "text",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 137,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 68,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 118,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 123,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 79,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot load property sideGapL from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 74,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property rearAeb from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property rearAeb from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 123
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardDrive.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]

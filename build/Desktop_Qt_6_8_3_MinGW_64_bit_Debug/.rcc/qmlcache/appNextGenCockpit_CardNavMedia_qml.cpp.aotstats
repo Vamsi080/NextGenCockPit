@@ -1,0 +1,492 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "fmtDist",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "fmtTime",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 1319,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 66,
+                        "durationMicroseconds": 914,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "Cannot load property battery from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 319,
+                        "errorMessage": "Cannot load property battery from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "color",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 73,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 123,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 115,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 71,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot load property range from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 1483,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "Cannot load property navRemain from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 102,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 83,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot load property nav from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 77,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property accent from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 49,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property accent from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot load property nav from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "dir",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 81,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "Cannot load property routeRemainKm from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "mins",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot load property destination from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 66,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 269,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot load property playing from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 49,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot load property track from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 126,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property text from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 194,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 82,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property track from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 127,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot load property sub from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 277,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 83,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 77,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "Cannot load property line from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 56,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot load property trackPos from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "width",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 118,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot load property accent from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 47,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot load property trackPos from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::sim with type QVariant.",
+                        "functionName": "text",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 69,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot load property dim from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "color",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 798,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 563,
+                        "errorMessage": "Cannot load property face from (component in C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml)::theme with type QVariant.",
+                        "functionName": "family",
+                        "line": 67
+                    }
+                ],
+                "filepath": "C:/Users/vamshi.m/Qt_Workspace/NextGenCockpit/CardNavMedia.qml"
+            }
+        ],
+        "moduleId": "NextGenCockpit(appNextGenCockpit)"
+    }
+]
